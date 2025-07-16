@@ -1,0 +1,9 @@
+title: My AI Blog
+description: AI-powered content creation
+url: "https://yourusername.github.io"
+
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
